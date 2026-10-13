@@ -1,0 +1,7 @@
+   *.jsonl
+   *.jsonl.gz
+   *.parquet
+   data/
+   __pycache__/
+   .ipynb_checkpoints/
+   .venv/
